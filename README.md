@@ -1,32 +1,38 @@
-# Hackathon-day-1
-Practice 
+# 🚀 Hackathon Day 1 – Practice Guide
 
-STEP 1: Understand the Hackathon Setup
-* Before you start coding, understand:
-  -> Duration: 36 hours (You’ll need to manage time!)
-  -> Team: Usually 2–4 people
-  -> Goal: Build a working prototype (not a full app)
-  -> Deliverables: Code, Demo, Pitch.
+## 🕒 Step 1: Understand Setup
+- Duration: **36 hours** (manage time wisely ⏱️)
+- Team: **2–4 members**
+- Goal: Build a **working prototype** (not full app)
+- Deliverables: **Code, Demo, Pitch**
 
-STEP 2: Choose a Problem to Solve
-Here are some beginner-friendly problems you can solve:
+---
 
-Idea	Description
-🏥 Health App	Patients can book doctor appointments online.
-📚 Quiz App	Students take quizzes and get instant results.
-🚗 Parking Finder	Show nearest parking areas on map.
-💬 Chat App	A simple real-time chat between users.
+## 💡 Step 2: Choose a Problem
+Some beginner-friendly project ideas:
+- 🏥 **Health App** → Book doctor appointments online  
+- 📚 **Quiz App** → Students take quizzes & get instant results  
+- 🚗 **Parking Finder** → Show nearest parking areas on map  
+- 💬 **Chat App** → Real-time chat between users  
 
-STEP 3: Plan the App
-We’ll build 4 features:
-1) Home Page
-2) Appointment Booking Form
-3) Doctor List
-4) Admin Panel to view appointments.
+---
 
-STEP 4: Set Up the Tech Stack
-You’ll use:
--> Frontend: React.js
--> Backend: Django (with REST API)
--> Database: PostgreSQL
--> API Integration: Sparrow SMS (for reminders).
+## 📝 Step 3: Plan the App (Example: Health Appointment System)
+Core Features:
+1. **Home Page**  
+2. **Appointment Booking Form**  
+3. **Doctor List**  
+4. **Admin Panel** (view/manage appointments)  
+
+---
+
+## ⚙️ Step 4: Tech Stack
+- **Frontend:** React.js  
+- **Backend:** Django (REST API)  
+- **Database:** PostgreSQL  
+- **API Integration:** Sparrow SMS (reminders/notifications)  
+
+---
+
+✅ You’re ready to start coding!  
+👉 Day 2 will focus on **building & connecting frontend + backend**.  
